@@ -39,7 +39,6 @@ li {
   width: 100%;
   text-align: center;
   padding: .4rem 0;
-
 }
 
 li a {
@@ -48,6 +47,10 @@ li a {
 }
 
 li:hover {
+  background-color: #a63f38;
+}
+
+a:hover{
   background-color: #a63f38;
 }
 
