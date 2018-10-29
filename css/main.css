@@ -16,6 +16,7 @@ body header {
   background-color: #d05c2e;
   border: 2px solid #a63f38;
 }
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -50,7 +51,7 @@ li:hover {
   background-color: #a63f38;
 }
 
-a:hover{
+a:hover {
   background-color: #a63f38;
 }
 
